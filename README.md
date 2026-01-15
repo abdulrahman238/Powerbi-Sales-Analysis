@@ -101,5 +101,5 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 ![AI Visuals](screenshots/page3_ai_visuals.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/7e6c2b54bec61b8fa25830a227ac9479a01dfd24/MOBILE%20VIEW%20DESCRIPTION%20.png)
 
