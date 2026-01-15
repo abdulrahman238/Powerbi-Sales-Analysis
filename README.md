@@ -92,7 +92,7 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 ## Dashboard Screenshots
 
 ### Key Data Points & Employee Performance
-![IMAGE alt](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/ec1aaf901a7c75f44bf86cb19fdf736f6c0ea959/KEY%20BUSINESS%20DATA%20POINTS.png))
+![IMAGE alt](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/ec1aaf901a7c75f44bf86cb19fdf736f6c0ea959/KEY%20BUSINESS%20DATA%20POINTS.png)
 
 
 ### AI Visuals
