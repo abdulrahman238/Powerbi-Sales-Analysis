@@ -81,6 +81,3 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 
 ---
 
-## Author
-**Abdul Rahman Kassim**  
-Aspiring Data Analyst | Power BI | Excel | SQL
