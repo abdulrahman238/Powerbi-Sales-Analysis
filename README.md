@@ -81,3 +81,25 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 
 ---
 
+
+## Key Insights
+- The fourth quarter recorded the highest total sales at **$8,114,275**, followed by the third, second, and first quarters.
+- The fourth quarter contributed **25.63%** of the overall total sales.
+- Total sales increased the most when the product **PCMaster** was sold, showing a significant positive impact on revenue.
+- Other products and factors also influenced sales performance, which can be explored further using the **Key Influencers** visual in the report.
+
+
+## Dashboard Screenshots
+
+### Key Data Points & Employee Performance
+![Key Data Points](screenshots/page1_key_data.png)
+
+### Top & Bottom Items
+![Top & Bottom Items](screenshots/page2_top_bottom.png)
+
+### AI Visuals
+![AI Visuals](screenshots/page3_ai_visuals.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile_view.png)
+
