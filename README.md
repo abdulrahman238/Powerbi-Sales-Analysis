@@ -95,7 +95,7 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 ![IMAGE alt](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/ec1aaf901a7c75f44bf86cb19fdf736f6c0ea959/KEY%20BUSINESS%20DATA%20POINTS.png))
 
 ### Top & Bottom Items
-![IMAGE alt](https://github.com/abdulrahman238/Powerbi-SalesAnalysis/blob/1f516cd0b709742ba2810027a328c1ab75e1a9e3/BOTTOM%20SALES%20AND%20TOP%20ANALYISIS.png))
+![IMAGE alt](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/0959f4a6b2b5348e7365cc26a54ba5c2f00a381b/BOTTOM%20SALES%20AND%20TOP%20ANALYISIS.png)
 
 ### AI Visuals
 ![AI Visuals](screenshots/page3_ai_visuals.png)
