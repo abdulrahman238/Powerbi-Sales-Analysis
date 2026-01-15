@@ -96,7 +96,7 @@ This project is shared using the Power BI Desktop file and screenshots. Power BI
 
 
 ### AI Visuals
-![AI Visuals](screenshots/page3_ai_visuals.png)
+![AI Visuals](https://github.com/abdulrahman238/Powerbi-Sales-Analysis/blob/753bc6784b83cd3fc4c1895dd755dd696faab9d6/REVENU%20BY%20QUATER%20AND%20HELPFUL%20TIPS.png)
 
 
 ### Top & Bottom Items
